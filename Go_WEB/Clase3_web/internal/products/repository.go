@@ -1,7 +1,7 @@
 package products
 
 import (
-	models "Clase3_web/models"
+	models "Clase3_web/internal/domain"
 	"encoding/json"
 	"io"
 	"os"

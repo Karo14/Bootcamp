@@ -2,7 +2,7 @@ package handlers
 
 import (
 	productsServices "Clase3_web/internal/products"
-	models "Clase3_web/models"
+	models "Clase3_web/internal/domain"
 	//"errors"
 	"strconv"
 	"time"

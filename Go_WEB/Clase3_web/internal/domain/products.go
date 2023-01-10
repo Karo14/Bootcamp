@@ -1,4 +1,4 @@
-package models
+package domain
 
 type Request struct {
 	Name         string  `json:"name" binding:"required"`
